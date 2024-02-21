@@ -1,0 +1,16 @@
+{
+  "polygon": {
+    "rpc": [
+      "https://rpc.ankr.com/polygon"
+    ],
+    "explorer": "https://polygonscan.com/tx/",
+    "token": "MATIC"
+  },
+  "bsc": {
+    "rpc": [
+      "https://rpc.ankr.com/bsc"
+    ],
+    "explorer": "https://bscscan.com/tx/",
+    "token": "BNB"
+  }
+}
